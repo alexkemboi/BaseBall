@@ -1,0 +1,15 @@
+C:\Users\akemboi\source\repos\baseBall\bin\Debug\net8.0\baseBall.exe
+C:\Users\akemboi\source\repos\baseBall\bin\Debug\net8.0\baseBall.deps.json
+C:\Users\akemboi\source\repos\baseBall\bin\Debug\net8.0\baseBall.runtimeconfig.json
+C:\Users\akemboi\source\repos\baseBall\bin\Debug\net8.0\baseBall.dll
+C:\Users\akemboi\source\repos\baseBall\bin\Debug\net8.0\baseBall.pdb
+C:\Users\akemboi\source\repos\baseBall\obj\Debug\net8.0\baseBall.csproj.AssemblyReference.cache
+C:\Users\akemboi\source\repos\baseBall\obj\Debug\net8.0\baseBall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akemboi\source\repos\baseBall\obj\Debug\net8.0\baseBall.AssemblyInfoInputs.cache
+C:\Users\akemboi\source\repos\baseBall\obj\Debug\net8.0\baseBall.AssemblyInfo.cs
+C:\Users\akemboi\source\repos\baseBall\obj\Debug\net8.0\baseBall.csproj.CoreCompileInputs.cache
+C:\Users\akemboi\source\repos\baseBall\obj\Debug\net8.0\baseBall.dll
+C:\Users\akemboi\source\repos\baseBall\obj\Debug\net8.0\refint\baseBall.dll
+C:\Users\akemboi\source\repos\baseBall\obj\Debug\net8.0\baseBall.pdb
+C:\Users\akemboi\source\repos\baseBall\obj\Debug\net8.0\baseBall.genruntimeconfig.cache
+C:\Users\akemboi\source\repos\baseBall\obj\Debug\net8.0\ref\baseBall.dll
